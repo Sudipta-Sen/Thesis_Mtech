@@ -15,7 +15,7 @@ setup(
     #long_description_content_type="text/markdown",
     keywords="reading comprehension question answering deep learning natural language processing information retrieval bert",
     license="Apache-2.0",
-    url="https://github.com/Sudipta-Sen/Mtech_Thesis.git",
+    url="https://github.com/Sudipta-Sen/Thesis_Mtech.git",
     packages=find_packages(),
     install_requires=read("requirements.txt").split(),
 )
