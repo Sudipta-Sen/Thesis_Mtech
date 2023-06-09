@@ -1,0 +1,1606 @@
+{
+  "data": [
+    {
+      "title": "Regions at a Glance",
+      "paragraphs": [
+        {
+          "context": "India has many different regions, each with their own unique characteristics and attractions. Some of the most popular regions for tourists to visit include Rajasthan, Kashmir, Himachal Pradesh, Uttar Pradesh, Uttarakhand, and West Bengal & Darjeeling. These regions offer a wide range of experiences, from trekking in the Himalayas to exploring ancient forts and palaces, and from wildlife safaris to relaxing on the beach.",
+          "qas": [
+              {
+                "question": "What are some popular regions to visit in India?",
+                "id": "1",
+                "answers": [
+                    {
+                        "text": "Rajasthan, Kashmir, Himachal Pradesh, Uttar Pradesh, Uttarakhand, and West Bengal & Darjeeling",
+                        "answer_start": 157
+                    }
+                ]
+            },
+            {
+              "question": "What types of experiences do indian regions offer?",
+              "id": "2",
+              "answers": [
+                {
+                  "text": "a wide range of experiences, from trekking in the Himalayas to exploring ancient forts and palaces, and from wildlife safaris to relaxing on the beach",
+                  "answer_start": 273
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Booking Trains",
+      "paragraphs": [
+        {
+          "context": "Trains are a popular way to travel around India, but it can be difficult to book tickets, especially during peak travel seasons. The best way to book train tickets is to do so well in advance, as seats can fill up quickly. Many trains also have a quota for foreign tourists, which can be booked online at the Indian Railways website. It is also possible to book tickets at a travel agency or at the train station itself, but this can be time-consuming and sometimes frustrating.",
+          "qas": [
+            {
+              "question": "Where can foreign tourists book train tickets?",
+              "id": "3",
+              "answers": [
+                {
+                  "text": "online at the Indian Railways website",
+                  "answer_start": 295
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yoga, Spas & Spiritual Pursuits",
+      "paragraphs": [
+        {
+          "context": "India is known for its spiritual pursuits, and many tourists come to the country to explore these traditions. Yoga, meditation, and Ayurvedic medicine are just a few of the practices that visitors can experience in India. There are also many spas and wellness centers that offer a range of treatments, from massages to acupuncture. Some of the most popular destinations for spiritual pursuits include Rishikesh, Dharamsala, and Varanasi.",
+          "qas": [
+            {
+              "question": "What are some of the spiritual pursuits that visitors can experience in India?",
+              "id": "4",
+              "answers": [
+                {
+                  "text": "Yoga, meditation, and Ayurvedic medicine",
+                  "answer_start": 110
+                }
+              ]
+            },
+            {
+              "question": "Where are some of the most popular destinations for spiritual pursuits in India?",
+              "id": "5",
+              "answers": [
+                {
+                  "text": "Rishikesh, Dharamsala, and Varanasi",
+                  "answer_start": 401
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "paragraphs": [
+        {
+          "context": "A land of remarkable diversity – from ancient traditions and artistic heritage to magnificent landscapes and culinary creations – India will ignite your curiosity, shake your senses and warm your soul.",
+          "qas": [
+            {
+              "question": "What will India do to you?",
+              "id": "6",
+              "answers": [
+                {
+                  "text": "ignite your curiosity, shake your senses and warm your soul",
+                  "answer_start": 141
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "India's Unpredictability",
+      "paragraphs": [
+        {
+          "context": "India tosses up the unexpected. This can be challenging, particularly for the first-time visitor: the poverty is confronting, Indian bureaucracy can be exasperating and the crush of humanity may turn the simplest task into a frazzling epic. Even veteran travellers find their nerves frayed at some point; yet this is all part of the India ride. With an ability to inspire, frustrate, thrill and confound all at once, adopting a 'go with the flow' attitude is wise if you wish to retain your sanity. Love it or loathe it – and most travellers see-saw between the two - to embrace India's unpredictability is to embrace its soul.",
+          "qas": [
+            {
+              "question": "What can be challenging for first-time visitors to India?",
+              "id": "7",
+              "answers": [
+                {
+                  "text": "the poverty is confronting, Indian bureaucracy can be exasperating and the crush of humanity may turn the simplest task into a frazzling epic",
+                  "answer_start": 98
+                }
+              ]
+            },
+            {
+              "question": "What should you do if you wish to retain your sanity while travelling to India?",
+              "id": "9",
+              "answers": [
+                {
+                  "text": "adopting a 'go with the flow' attitude",
+                  "answer_start": 417
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Taj Mahal",
+      "paragraphs": [
+        {
+          "context": "Exquisite tomb that's as much a monument to love as it is to death, the Taj Mahal is arguably the world's most beautiful building, and has been enshrined in the writings of Tagore and Kipling. Built by Emperor Shah Jahan in adoration of his third wife, Mumtaz Mahal, this milky-white marble mausoleum is inlaid with calligraphy, precious and semiprecious stones and intricate floral designs representing eternal paradise, and is the pinnacle of Mughal architecture as well as romance.",
+          "qas": [
+            {
+              "question": "Who built the Taj Mahal?",
+              "id": "10",
+              "answers": [
+                {
+                  "text": "Emperor Shah Jahan",
+                  "answer_start": 202
+                }
+              ]
+            },
+            {
+              "question": "What materials were used to build the Taj Mahal?",
+              "id": "12",
+              "answers": [
+                {
+                  "text": "milky-white marble mausoleum is inlaid with calligraphy, precious and semiprecious stones and intricate floral designs",
+                  "answer_start": 272
+                }
+              ]
+            },
+            {
+              "question": "What is the Taj Mahal known for?",
+              "id": "13",
+              "answers": [
+                {
+                  "text": "the pinnacle of Mughal architecture as well as romance",
+                  "answer_start": 429
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Otherworldly Hampi",
+      "paragraphs": [
+        {
+          "context": "Magnificent, even in ruins, Hampi was once the cosmopolitan Vijayanagar, capital of a powerful Hindu empire, spread across an emerald-green and terracotta-red landscape. Its temples and royal structures combine sublimely with the terrain: giant rocks balance on slender pedestals near an ancient elephant garage; temples tuck into crevices between boulders; and wicker coracles float by rice paddies and bathing buffalo near a gargantuan bathtub for a former queen. As the sunset casts a rosy glow over the dreamy landscape, you might just forget what planet you’re on.",
+          "qas": [
+            {
+              "question": "What is Hampi?",
+              "id": "14",
+              "answers": [
+                {
+                  "text": "Hampi was once the cosmopolitan Vijayanagar, capital of a powerful Hindu empire, spread across an emerald-green and terracotta-red landscape.",
+                  "answer_start": 28
+                }
+              ]
+            },
+            {
+              "question": "What is the history of Hampi?",
+              "id": "16",
+              "answers": [
+                {
+                  "text": "Hampi was once the cosmopolitan Vijayanagar, capital of a powerful Hindu empire",
+                  "answer_start": 28
+                }
+              ]
+            },
+            {
+              "question": "What is the special feature of the landscape in Hampi?",
+              "id": "17",
+              "answers": [
+                {
+                  "text": "giant rocks balance on slender pedestals near an ancient elephant garage; temples tuck into crevices between boulders; and wicker coracles float by rice paddies and bathing buffalo near a gargantuan bathtub for a former queen",
+                  "answer_start": 239
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ladakh: A Spiritual Journey in the Shadow of the Himalaya",
+      "paragraphs": [
+        {
+          "context": "As you head north, the air grows cooler and crisper, and you reach quaint, historic hill stations, summer escapes that are ringed by snow-capped peaks. In Ladakh cultural influences came via mountain passes. Tibetan Buddhism thrives, and multilayered monasteries emerge from the forest or steep cliffs as vividly and poetically as the sun rises over Khangchendzonga. Weathered prayer flags flutter in the wind, the soothing sound of monks chanting reverberates in meditation halls, and locals abound with holy offerings, all in the shadow of the mighty Himalaya.",
+          "qas": [
+            {
+              "question": "What is Ladakh known for?",
+              "id": "19",
+              "answers": [
+                {
+                  "text": "Ladakh cultural influences came via mountain passes. Tibetan Buddhism thrives, and multilayered monasteries emerge from the forest",
+                  "answer_start": 155
+                }
+              ]
+            },
+            
+            {
+              "question": "What is the religious influence in Ladakh?",
+              "id": "21",
+              "answers": [
+                {
+                  "text": "Tibetan Buddhism thrives, and multilayered monasteries",
+                  "answer_start": 208
+                }
+              ]
+            },
+            {
+              "question": "What can be seen in Ladakh's monasteries?",
+              "id": "22",
+              "answers": [
+                {
+                  "text": "multilayered monasteries emerge from the forest or steep cliffs as vividly and poetically as the sun rises over Khangchendzonga",
+                  "answer_start": 238
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Caves of Ajanta",
+      "paragraphs": [
+        {
+          "context": "They may have been ascetics, but the 2nd-century-BC monks who created the Ajanta caves certainly had an eye for the dramatic. The 30 rock-cut forest grottoes punctuate the side of a horseshoe-shaped cliff, and originally had individual staircases leading down to the river. The architecture and towering stupas made these caves inspiring places to meditate and live, but the real bling came centuries later, in the form of exquisite carvings and paintings depicting the Buddha’s former lives. Renunciation of the worldly life was never so serenely sophisticated.",
+          "qas": [
+            {
+              "question": "What is Ajanta?",
+              "id": "24",
+              "answers": [
+                {
+                  "text": "30 rock-cut forest grottoes punctuate the side of a horseshoe-shaped cliff",
+                  "answer_start": 130
+                }
+              ]
+            },
+            {
+              "question": "What is depicted in Ajanta caves?",
+              "id": "26",
+              "answers": [
+                {
+                  "text": "exquisite carvings and paintings depicting the Buddha’s former lives",
+                  "answer_start": 423
+                }
+              ]
+            },
+            
+            {
+              "question": "How are the Ajanta caves described?",
+              "id": "28",
+              "answers": [
+                {
+                  "text": "rock-cut forest grottoes",
+                  "answer_start": 133
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Sacred and Spiritual City of Varanasi",
+      "paragraphs": [
+        {
+          "context": "Welcome to Varanasi, a city full of life and death, and one of India's most revered sacred cities. Pilgrims flock here to worship, take a holy dip in the Ganges River, or cremate loved ones. Hindus believe the waters of the Ganges cleanse away sins, while dying here is deemed particularly propitious as it offers emancipation from the arduous life-and-death cycle. Varanasi will swiftly sweep you into its dizzying spiritual whirlwind – just take a deep breath and immerse yourself in pondering the meaning of life, death…and beyond.",
+          "qas": [
+            {
+              "question": "What is Varanasi known for?",
+              "id": "29",
+              "answers": [
+                {
+                  "text": "Varanasi, a city full of life and death, and one of India's most revered sacred cities. Pilgrims flock here to worship, take a holy dip in the Ganges River, or cremate loved ones.",
+                  "answer_start": 11
+                }
+              ]
+            },
+            {
+              "question": "What is the spiritual significance of Varanasi?",
+              "id": "31",
+              "answers": [
+                {
+                  "text": "Varanasi will swiftly sweep you into its dizzying spiritual whirlwind – just take a deep breath and immerse yourself in pondering the meaning of life, death…and beyond.",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of dying in Varanasi?",
+              "id": "32",
+              "answers": [
+                {
+                  "text": "dying here is deemed particularly propitious as it offers emancipation from the arduous life-and-death cycle.",
+                  "answer_start": 256
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exploring Delhi's Rich History and Culture",
+      "paragraphs": [
+        {
+          "context": "India's capital bears the mighty remnants of former empires, from great Mughal tombs to grandiose British-era mansions. There's so much to see here: the crumbling splendour of Old Delhi – with the Jama Masjid, Red Fort and its havelis (ornately decorated residences), the ancient forts of Tughlaqabad and Purana Qila, and the wonders of Qutb Minar and Mehrauli Archaeological Park. Add to this the city's many fine eateries, with offerings from street food to modern Indian, superb museums and amazing shopping, and it's easy to see why Delhi mesmerises many.",
+          "qas": [
+            {
+              "question": "What are some of the remnants of former empires found in Delhi?",
+              "id": "33",
+              "answers": [
+                {
+                  "text": "great Mughal tombs to grandiose British-era mansions",
+                  "answer_start": 66
+                }
+              ]
+            },
+            {
+              "question": "What are some of the ancient forts in Delhi?",
+              "id": "35",
+              "answers": [
+                {
+                  "text": "Tughlaqabad and Purana Qila",
+                  "answer_start": 289
+                }
+              ]
+            },
+            {
+              "question": "What is Qutb Minar and Mehrauli Archaeological Park?",
+              "id": "36",
+              "answers": [
+                {
+                  "text": "wonders of Qutb Minar and Mehrauli Archaeological Park",
+                  "answer_start": 326
+                }
+              ]
+            },
+            {
+              "question": "What else is Delhi known for besides its historical sites?",
+              "id": "37",
+              "answers": [
+                {
+                  "text": "fine eateries, with offerings from street food to modern Indian, superb museums and amazing shopping",
+                  "answer_start": 410
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Amritsar's Golden Temple",
+      "paragraphs": [
+        {
+          "context": "The Golden Temple in Amritsar, is the Sikhs' holiest of shrines, and has a magical atmosphere. Seeming to float atop a glistening pool named for the 'nectar of immortality', the temple is truly golden (the lotus-shaped dome is gilded in the real thing). Even when crowded with pilgrims it has a graceful tranquillity, with the sounds of kirtan (Sikh devotional singing) and birds chirping outside, and the mirror-like sacred pool that surrounds it.",
+          "qas": [
+            {
+              "question": "What is the Golden Temple?",
+              "id": "38",
+              "answers": [
+                {
+                  "text": "The Golden Temple in Amritsar, is the Sikhs' holiest of shrines",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What kind of singing can be heard outside the Golden Temple?",
+              "id": "40",
+              "answers": [
+                {
+                  "text": "the sounds of kirtan (Sikh devotional singing)",
+                  "answer_start": 323
+                }
+              ]
+            },
+            {
+              "question": "What kind of singing can be heard outside the Golden Temple?",
+              "id": "41",
+              "answers": [
+                {
+                  "text": "Even when crowded with pilgrims it has a graceful tranquillity, with the sounds of kirtan (Sikh devotional singing) and birds chirping outside, and the mirror-like sacred pool that surrounds it.",
+                  "answer_start": 254
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "French-Flavoured Puducherry",
+      "paragraphs": [
+        {
+          "context": "A place where you can gorge on yoga, pain au chocolat, Hindu gods and colonial-era architecture all at once is a tres bien proposition. In this former French colony, yellow houses line cobblestone streets, grand cathedrals are adorned with architectural frou-frou, and the croissants are the real deal. But Puducherry's also a Tamil town - with all the history, temples and hustle and bustle that go along with that - and a classic retreat town, too, with the Sri Aurobindo Ashram at its heart.",
+          "qas": [
+            {
+              "question": "What is Puducherry known for?",
+              "id": "42",
+              "answers": [
+                {
+                  "text": "In this former French colony, yellow houses line cobblestone streets, grand cathedrals are adorned with architectural frou-frou, and the croissants are the real deal. But Puducherry’s also a Tamil town – with all the history, temples and hustle and bustle that go along with that – and a classic retreat town, too, with the Sri Aurobindo Ashram at its heart.",
+                  "answer_start": 136
+                }
+              ]
+            },
+            {
+              "question": "What can you experience in Puducherry?",
+              "id": "43",
+              "answers": [
+                {
+                  "text": "A place where one can experience yoga, pain au chocolat, Hindu gods, colonial-era architecture, Tamil culture and history, and the Sri Aurobindo Ashram.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Mighty Mehrangarh Fort in Jodhpur, Rajasthan",
+      "paragraphs": [
+        {
+          "context": "India has many inconceivably magnificent fortresses, but Jodhpur's Mehrangarh is among the finest, rearing up from its rocky outcrop. Like others, its huge doorways were built to accommodate elephants and its entryways designed to confuse invaders, but this is one of the most imposing settings of them all (though there's a lot of competition). India's forts typically tower above their surroundings like fantastical story-book visions, but Mehrangarh has the added glory of mesmerising views down to Jodhpur, Rajasthan's magical-looking blue city.",
+          "qas": [
+            {
+              "question": "What is special about Mehrangarh's doorways?",
+              "id": "44",
+              "answers": [
+                {
+                  "text": "its huge doorways were built to accommodate elephants and its entryways designed to confuse invaders",
+                  "answer_start": 147
+                }
+              ]
+            },
+            {
+              "question": "What is Mehrangarh?",
+              "id": "46",
+              "answers": [
+                {
+                  "text": "India has many inconceivably magnificent fortresses, but Jodhpur's Mehrangarh is among the finest, rearing up from its rocky outcrop",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Grandeur of India's Forts and Palaces",
+      "paragraphs": [
+        {
+          "context": "India's architecture tells a tale of conquest, domination and inordinate riches. Rajasthan Nowhere matches the Land of Kings for romantic splendour, with Jaisalmer, Jodhpur, Amber and lace-like Udaipur. Maharashtra The land of Shivaji has defensive masterpieces including Daulatabad, and Janjira, an island fortress. Hyderabad The rugged Golconda Fort complements the many ethereal palaces of the City of Pearls. Delhi This historically strategic city has imperial forts like other places have traffic islands. Ladakh Leh and Stok palaces are like mini versions of Tibet's fantastical Potala Palace. Mysuru The majestic Mysuru Palace is the former residence of Mysuru's maharajas.",
+          "qas": [
+            {
+              "question": "What tale does India's architecture tell?",
+              "id": "47",
+              "answers": [
+                {
+                  "text": "India's architecture tells a tale of conquest, domination and inordinate riches.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What places in Rajasthan are known for their romantic splendour?",
+              "id": "48",
+              "answers": [
+                {
+                  "text": "Rajasthan Nowhere matches the Land of Kings for romantic splendour, with Jaisalmer, Jodhpur, Amber and lace-like Udaipur",
+                  "answer_start": 81
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Golconda Fort?",
+              "id": "49",
+              "answers": [
+                {
+                  "text": "Hyderabad The rugged Golconda Fort complements the many ethereal palaces of the City of Pearls.",
+                  "answer_start": 317
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "India's Grand Temples",
+      "paragraphs": [
+        {
+          "context": "No one does temples like India - from psychedelic Technicolor Hindu towers to silently grand Buddhist cave temples and Amritsar's gold-plated fairy-tale Sikh shrine. Tamil Nadu A temple wonderland, with towering, fantastical structures that climb to the sky in busy rainbows of sculpted deities. Golden Temple The queen of Sikh temples rises like a shining gem over a pool in Amritsar. Rajasthan Jain temples at Jaisalmer, Ranakpur and Mt Abu offer some of India's most mind-blowingly intricate carvings. Khajuraho Exquisite carvings of deities, spirits, musicians, regular people, mythological beasts - and sex. Lots of sex. Tawang Gompa The world's second-largest Buddhist monastery, in Arunachal Pradesh, is set against snowy peaks. South Sikkim Gigantic Buddhist and Hindu sculptures rise unforgettably above three forested foothill ridges at Namchi and Ravangla, backed by a horizon of white-topped Himalayan peaks. Ajanta Ancient, vast, sculpted caves. Because monks like beautiful sculpture, too. Delhi The almost-psychedelic structure of Akshardham versus the simplicity of the all-faith Bahai House of Worship. Odisha The Sun Temple at Konark, with a vast, splendid stone chariot of the sun god Surya that features intricate erotic imagery.",
+          "qas": [
+            {
+              "question": "Which state in India is known as a temple wonderland?",
+              "id": "50",
+              "answers": [
+                {
+                  "text": "Tamil Nadu A temple wonderland, with towering, fantastical structures that climb to the sky in busy rainbows of sculpted deities.",
+                  "answer_start": 166
+                }
+              ]
+            },
+            {
+              "question": "Where is the queen of Sikh temples located?",
+              "id": "51",
+              "answers": [
+                {
+                  "text": "Golden Temple The queen of Sikh temples rises like a shining gem over a pool in Amritsar.",
+                  "answer_start": 296
+                }
+              ]
+            },
+            {
+              "question": "Which temple in India is known for its intricate erotic imagery?",
+              "id": "52",
+              "answers": [
+                {
+                  "text": "The Sun Temple at Konark, with a vast, splendid stone chariot of the sun god Surya that features intricate erotic imagery",
+                  "answer_start": 1127
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "India's Rich History through its Ancient Ruins",
+      "paragraphs": [
+        {
+          "context": "You can wander back through time throughout India, with the legacy of countless cultures and empires scattered across cities and countryside: you don't get to be a 5000-year-old civilisation without having lots of these around. Hampi Rosy-hued temples and palaces of the mighty capital of Vijayanagar are scattered among otherworldly looking boulders and hilltops. Mandu Many of the tombs, palaces, monuments and mosques on Mandu's 20-sq-km green plateau are among India's finest Afghan architecture. Nalanda This Unesco-listed, 1600-year-old university once enrolled 10,000 monks and students. Its monasteries, temples and stupas are still elegant in ruins. Delhi Conquered and built up repeatedly over the past 3000 years, Delhi is packed full of the monumental ruins of ancient powerhouses. Fatehpur Sikri A ghostly abandoned Mughal city, close to Agra and the Taj Mahal. Maharashtra Magnificent rock-cut Buddhist temple caves.",
+          "qas": [
+            {
+              "question": "What is special about the rosy-hued temples and palaces in Hampi?",
+              "id": "53",
+              "answers": [
+                {
+                  "text": "Hampi Rosy-hued temples and palaces of the mighty capital of Vijayanagar are scattered among otherworldly looking boulders and hilltops",
+                  "answer_start": 228
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Nalanda?",
+              "id": "55",
+              "answers": [
+                {
+                  "text": "Nalanda This Unesco-listed, 1600-year-old university once enrolled 10,000 monks and students. Its monasteries, temples and stupas are still elegant in ruins.",
+                  "answer_start": 501
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Delhi?",
+              "id": "56",
+              "answers": [
+                {
+                  "text": "Delhi Conquered and built up repeatedly over the past 3000 years, Delhi is packed full of the monumental ruins of ancient powerhouses.",
+                  "answer_start": 659
+                }
+              ]
+            },
+            {
+              "question": "What is Fatehpur Sikri?",
+              "id": "57",
+              "answers": [
+                {
+                  "text": "Fatehpur Sikri A ghostly abandoned Mughal city, close to Agra and the Taj Mahal",
+                  "answer_start": 794
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "City Sophistication",
+      "paragraphs": [
+        {
+          "context": "City Sophistication India's cities are a world away from life in small towns or the countryside. With booming economies and millennia of sophistication under their belts, India’s cities have vibrant arts scenes, excellent restaurants and heaps of style. Mumbai Home of Bollywood, Mumbai has it all: fashion, film stars, fine dining, glamorous bars and (along with Delhi) the country's best art galleries. Delhi Urban sophisticate Delhi is famous for its cultural life, with regular festivals, plus exceptional shopping, museums, street food and swish restaurants. Kolkata (Calcutta) Renowned for its poetry and poetics, Kolkata also has fabulous colonial-era architecture and a lively arts scene. Bengaluru (Bangalore) This IT hub has a boozy nightlife with microbreweries, gastropubs and rock bars full of locals looking to party. Chennai (Madras) Towering temples, elegant bars, swish hotels, fabulous shopping and a booming restaurant scene.",
+          "qas": [
+            {
+              "question": "What are the major highlights of Mumbai?",
+              "id": "58",
+              "answers": [
+                {
+                  "text": "fashion, film stars, fine dining, glamorous bars and (along with Delhi) the country's best art galleries",
+                  "answer_start": 299
+                }
+              ]
+            },
+            {
+              "question": "What is the speciality of Kolkata?",
+              "id": "60",
+              "answers": [
+                {
+                  "text": "Renowned for its poetry and poetics, Kolkata also has fabulous colonial-era architecture and a lively arts scene",
+                  "answer_start": 583
+                }
+              ]
+            },
+            {
+              "question": "What are the highlights of Chennai?",
+              "id": "61",
+              "answers": [
+                {
+                  "text": "Towering temples, elegant bars, swish hotels, fabulous shopping and a booming restaurant scene.",
+                  "answer_start": 849
+                }
+              ]
+            },
+            {
+              "question": "What are the highlights of Bangalore?",
+              "id": "62",
+              "answers": [
+                {
+                  "text": "This IT hub has a boozy nightlife with microbreweries, gastropubs and rock bars full of locals looking to party",
+                  "answer_start": 719
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "India's Coastal Paradises",
+      "paragraphs": [
+        {
+          "context": "India has some stunning stretches of paradisiacal coast, with tall palms and powdery white sand, while elsewhere the shoreline is more tinselled, with plenty of personality, people-watching and snack carts. Kerala Varkala is backed by beautiful sea-cliffs and has a busy backpacker scene, Kovalam is a pretty resort with a golden bay, while more deserted Thottada is shaded by nodding palms. Goa Even when overrun with travellers, the beaches are still lovely somehow. Mandrem and Palolem are two of the prettiest. Havelock Island In the Andaman Islands, one of the world's most gorgeous beaches has clear, aquamarine water lapping against white powder. Gokarna Originally for Goa overflow, Gokarna's beautiful beaches are part of a sacred ancient village.",
+          "qas": [
+            {
+              "question": "What is unique about Havelock Island?",
+              "id": "63",
+              "answers": [
+                {
+                  "text": "Havelock Island In the Andaman Islands, one of the world's most gorgeous beaches has clear, aquamarine water lapping against white powder",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "question": "What is Gokarna known for?",
+              "id": "64",
+              "answers": [
+                {
+                  "text": "Gokarna Originally for Goa overflow, Gokarna's beautiful beaches are part of a sacred ancient village.",
+                  "answer_start": 654
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Festivals and Events in January",
+      "paragraphs": [
+        {
+          "context": "Post-monsoon cool lingers throughout the country, with downright cold in the mountains. Pleasant weather and several festivals make it a popular time to travel (book ahead!), while Delhi hosts big Republic Day celebrations. Festivals in January are Free India, Kite Festival, Southern Harvest, Pilgrimage. Free India- Republic Day commemorates the founding of the Republic of India on 26 January 1950; the biggest celebrations are in Delhi, which holds a huge military parade along Rajpath, and the Beating of the Retreat ceremony three days later. There are pigeon races in Old Delhi. Kite Festival - Sankranti, the Hindu festival marking the sun's passage into Capricorn, takes place on either 14 or 15 January, and is celebrated in many ways across India - from banana-giving to cockfights. But it's the mass kite-flying in Gujarat, Andhra Pradesh, Uttar Pradesh and Maharashtra that's most spectacular. Southern Harvest - The Tamil festival of Pongal, equivalent to Sankranti, marks the end of the harvest season. Families prepare pots of pongal (a mixture of rice, sugar, dhal and milk), symbolic of prosperity and abundance, then feed them to decorated and adorned cows. Pilgrimage - The huge Hindu pilgrimage, Kumbh Mela, takes place every three years, rotating between four different locations. All involve mass devotion - mass as in tens of millions of people.",
+          "qas": [
+            {
+              "question": "What is the Free India festival?",
+              "id": "65",
+              "answers": [
+                {
+                  "text": "Republic Day commemorates the founding of the Republic of India on 26 January 1950; the biggest celebrations are in Delhi, which holds a huge military parade along Rajpath",
+                  "answer_start": 318
+                }
+              ]
+            },
+            {
+              "question": "Where is the biggest Republic Day celebration held in India?",
+              "id": "66",
+              "answers": [
+                {
+                  "text": "Delhi",
+                  "answer_start": 434
+                }
+              ]
+            },
+            {
+              "question": "What is the Southern Harvest festival?",
+              "id": "68",
+              "answers": [
+                {
+                  "text": "The Tamil festival of Pongal, equivalent to Sankranti, marks the end of the harvest season.",
+                  "answer_start": 926
+                }
+              ]
+            },
+            {
+              "question": "What is the Kumbh Mela?",
+              "id": "69",
+              "answers": [
+                {
+                  "text": "The huge Hindu pilgrimage, Kumbh Mela, takes place every three years, rotating between four different locations. All involve mass devotion - mass as in tens of millions of people.",
+                  "answer_start": 1190
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "February Festivals in India",
+      "paragraphs": [
+        {
+          "context": "This is a good time to be in India, with balmy weather in most non-mountainous areas. It's still peak travel season; sunbathing and skiing are still on. Festivals in February are Saraswati puja (Vasant Panchami), Tibetan New Year, Skiing the Northern Slopes, Shivaratri, Taj Mahotsav, Snowboarding in Gulmarg. Celebrating Saraswati - On Vasant Panchami, Hindus dress in yellow and place books, musical instruments and other educational objects in front of idols of Saraswati, the goddess of learning, to receive her blessing. The holiday sometimes falls in February. Tibetan New Year - Losar is celebrated by Tantric Buddhists all over India - particularly in Himachal Pradesh, Sikkim, Ladakh and Zanskar - for 15 days. Losar is usually in February or March, though dates can vary between regions. Skiing the Northern Slopes - Jammu and Kashmir, Himachal Pradesh and Uttarakhand have some fine skiing and snowboarding for all levels. Snow season tends to be January to March; February's a safe bet. Shivaratri - This day of Hindu fasting recalls the tandava (cosmic victory dance) of Lord Shiva. Temple processions are followed by the chanting of mantras and anointing of linga (phallic images of Shiva). Shivaratri can also fall in March. Taj Mahotsav - This 10-day carnival of culture, cuisine and crafts is Agra's biggest and best party. Held at Shilpgram, the festival features more than 400 artisans from all over India, a potpourri of folk and classical music, and dances from various regions and enough regional food to induce a curry coma. Snowboarding in Gulmarg, Kashmir - Snowboarding in Gulmarg was an exceptional experience. When those mountains are hit by heavy snowfall, it must be a dream for backcountry skiing and freeride snowboarding. Endless uncombed tracks are running down from the top at 4,400 meters to the village nearly 2 kilometers below.",
+          "qas": [
+            {
+              "question": "What are some festivals celebrated in February in India?",
+              "id": "70",
+              "answers": [
+                {
+                  "text": "Saraswati puja (Vasant Panchami), Tibetan New Year, Skiing the Northern Slopes, Shivaratri, Taj Mahotsav, Snowboarding in Gulmarg",
+                  "answer_start": 179
+                }
+              ]
+            },
+            {
+              "question": "What is Shivaratri?",
+              "id": "72",
+              "answers": [
+                {
+                  "text": "This day of Hindu fasting recalls the tandava (cosmic victory dance) of Lord Shiva.",
+                  "answer_start": 1012
+                }
+              ]
+            },
+            {
+              "question": "What is Taj Mahotsav?",
+              "id": "73",
+              "answers": [
+                {
+                  "text": "This 10-day carnival of culture, cuisine and crafts is Agra's biggest and best party. Held at Shilpgram, the festival features more than 400 artisans from all over India",
+                  "answer_start": 1255
+                }
+              ]
+            },
+            {
+              "question": "What is Losar?",
+              "id": "74",
+              "answers": [
+                {
+                  "text": "Tibetan New Year - Losar is celebrated by Tantric Buddhists all over India - particularly in Himachal Pradesh, Sikkim, Ladakh and Zanskar - for 15 days",
+                  "answer_start": 567
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "March Festivals in India",
+      "paragraphs": [
+        {
+          "context": "The last month of the travel season, March is full-on hot in most of the country, with rains starting in the northeast. Wildlife is easier to spot as animals come out to find water. Festivals in January are Holi, Rama's Birthday, Mahavir's Birthday. Holi - One of North India's most ecstatic festivals; Hindus celebrate the beginning of spring according to the lunar calendar, in February or March, by throwing coloured water and gulal (powder) at anyone within range. Bonfires the night before symbolise the demise of demoness Holika. Wildlife-Watching - When the weather warms up, water sources dry out and animals venture into the open to find refreshment: your chance to spot elephants, deer and, if you're lucky, tigers and leopards. Visit www.sanctuaryasia.com for detailed info. Rama's Birthday - During Rama Navami, which lasts anywhere from one to nine days, Hindus celebrate Rama's birth with processions, music, fasting and feasting, enactments of scenes from the Ramayana and, at some temples, ceremonial weddings of Rama and Sita idols. Mahavir's Birthday - Mahavir Jayanti commemorates the birth of Jainism, most important tirthankar (teacher and enlightened being). Temples are decorated and visited, Mahavir statues are given ritual baths, processions are held and offerings are given to the poor.",
+          "qas": [
+            {
+              "question": "What is the weather like in March in India?",
+              "id": "75",
+              "answers": [
+                {
+                  "text": "March is full-on hot in most of the country, with rains starting in the northeast",
+                  "answer_start": 37
+                }
+              ]
+            },
+            {
+              "question": "What festivals are celebrated in March?",
+              "id": "76",
+              "answers": [
+                {
+                  "text": "Holi, Rama's Birthday, Mahavir's Birthday",
+                  "answer_start": 207
+                }
+              ]
+            },
+            {
+              "question": "What is Mahavir Jayanti?",
+              "id": "78",
+              "answers": [
+                {
+                  "text": "Mahavir Jayanti commemorates the birth of Jainism, most important tirthankar (teacher and enlightened being).",
+                  "answer_start": 1071
+                }
+              ]
+            },
+            {
+              "question": "What is done during Rama Navami?",
+              "id": "79",
+              "answers": [
+                {
+                  "text": "During Rama Navami, which lasts anywhere from one to nine days, Hindus celebrate Rama's birth with processions, music, fasting and feasting, enactments of scenes from the Ramayana and, at some temples, ceremonial weddings of Rama and Sita idols.",
+                  "answer_start": 804
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "April Festivals in India",
+      "paragraphs": [
+        {
+          "context": "The heat has officially arrived in most places, which means you can get deals and avoid tourist crowds. The Northeast, meanwhile, is wet, but it's peak time for visiting Sikkim and upland West Bengal. Festivals in April are Easter. Easter - The Christian holiday marking the Crucifixion and Resurrection of Jesus Christ is celebrated simply in Christian communities with prayer and good food.",
+          "qas": [
+            {
+              "question": "What festivals are celebrated in April?",
+              "id": "80",
+              "answers": [
+                {
+                  "text": "Easter",
+                  "answer_start": 224
+                }
+              ]
+            },
+            {
+              "question": "What is Easter",
+              "id": "81",
+              "answers": [
+                {
+                  "text": "Easter - The Christian holiday marking the Crucifixion and Resurrection of Jesus Christ is celebrated simply in Christian communities with prayer and good food.",
+                  "answer_start": 232
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "May Festivals in India",
+      "paragraphs": [
+        {
+          "context": "It's hot almost everywhere. Really hot. Festivals take a back seat as humidity builds up, awaiting the release of the rain. Hill stations are hopping, though, and in the mountains it's pre-monsoon trekking season. Festivals in May are Buddha's Birthday, Ramadan, Northern Trekking. Buddha's Birthday - The celebration of Buddha's birth, nirvana (enlightenment) and parinirvana (total liberation from the cycle of existence, or passing away), Buddha Jayanti is quiet but moving: devotees dress simply, eat vegetarian food, listen to dharma talks and visit monasteries or temples. Ramadan (Ramazan) - Thirty days of dawn-to-dusk fasting mark the ninth month of the Islamic calendar. Muslims traditionally turn their attention to God, with a focus on prayer and purification. Northern Trekking - May and June, the months preceding the rains in the northern mountains, are good times for trekking, with sunshine and temperate weather. Consider Himachal Pradesh, Kashmir (but not Ladakh) and Uttarakhand. Mango Madness - Mangoes are indigenous to India, which is why they’re so ridiculously good here. The season starts in March; in May the fruit is sweet, juicy and everywhere.",
+          "qas": [
+            {
+              "question": "What are the festivals in May?",
+              "id": "82",
+              "answers": [
+                {
+                  "text": "Buddha's Birthday, Ramadan, Northern Trekking",
+                  "answer_start": 235
+                }
+              ]
+            },
+            {
+              "question": "How do indian's celebrate Buddhas's birthday?",
+              "id": "83",
+              "answers": [
+                {
+                  "text": "The celebration of Buddha's birth, nirvana (enlightenment) and parinirvana (total liberation from the cycle of existence, or passing away), Buddha Jayanti is quiet but moving: devotees dress simply, eat vegetarian food, listen to dharma talks and visit monasteries or temples.",
+                  "answer_start": 302
+                }
+              ]
+            },
+            {
+              "question": "What is the good time of trekking in India",
+              "id": "85",
+              "answers": [
+                {
+                  "text": "May and June, the months preceding the rains in the northern mountains, are good times for trekking, with sunshine and temperate weather.",
+                  "answer_start": 793
+                }
+              ]
+            },
+            {
+              "question": "What is the season of mango madness in India?",
+              "id": "86",
+              "answers": [
+                {
+                  "text": "The season starts in March; in May the fruit is sweet, juicy and everywhere.",
+                  "answer_start": 1097
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "June Travel in India",
+      "paragraphs": [
+        {
+          "context": "June is low, low season for travellers in India on account of the heat, but a good time to trek up north. The rainy season, or pre-monsoon extreme heat, has started just about everywhere else. Festivals in June are Eid al-Fitr. Eid al-Fitr - Muslims celebrate the end of Ramadan with three days of festivities. Prayers, shopping, gift-giving and, for women and girls, mehndi (henna designs) may all be part of the celebrations.  Lunar Calendar - Many festivals follow the Indian lunar calendar (a complex system based on astrology) or the Islamic calendar (which falls about 11 days earlier each year), and therefore change annually relative to the Gregorian calendar. Contact local tourist offices for festival dates.",
+          "qas": [
+            {
+              "question": "Why June is low season for travellers in India?",
+              "id": "87",
+              "answers": [
+                {
+                  "text": "June is low, low season for travellers in India on account of the heat, but a good time to trek up north.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What are the festivals in June?",
+              "id": "88",
+              "answers": [
+                {
+                  "text": "Eid al-Fitr",
+                  "answer_start": 215
+                }
+              ]
+            },
+            {
+              "question": "Why many festival dates of India changes anually?",
+              "id": "90",
+              "answers": [
+                {
+                  "text": "Many festivals follow the Indian lunar calendar (a complex system based on astrology) or the Islamic calendar (which falls about 11 days earlier each year), and therefore change annually relative to the Gregorian calendar.",
+                  "answer_start": 446
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "July Travel in India",
+      "paragraphs": [
+        {
+          "context": "All going well, it should be raining almost everywhere now, with many remote roads being swept away. Consider visiting Ladakh, where the weather's surprisingly fine, or do a rainy-season meditation retreat, an ancient Indian tradition. Festivals in July are Odisha Festival of Chariots or Rath Yatra. Odisha Festival of Chariots - Rath Yatra (Chariot Festival) sees effigies of Lord Jagannath (Vishnu incarnated as lord of the world) and his siblings carried through towns on vast, colourful chariots, most famously in Puri, Odisha (Orissa). Millions come to see them.",
+          "qas": [
+            {
+              "question": "What should be considered for travel in July?",
+              "id": "91",
+              "answers": [
+                {
+                  "text": "Consider visiting Ladakh, where the weather's surprisingly fine, or do a rainy-season meditation retreat, an ancient Indian tradition",
+                  "answer_start": 101
+                }
+              ]
+            },
+            {
+              "question": "What is the Odisha Festival of Chariots?",
+              "id": "92",
+              "answers": [
+                {
+                  "text": "Rath Yatra (Chariot Festival) sees effigies of Lord Jagannath (Vishnu incarnated as lord of the world) and his siblings carried through towns on vast, colourful chariots, most famously in Puri, Odisha (Orissa)",
+                  "answer_start": 331
+                }
+              ]
+            },
+            {
+              "question": "Where is the Odisha Festival of Chariots held?",
+              "id": "93",
+              "answers": [
+                {
+                  "text": "Puri, Odisha (Orissa)",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "question": "What are the festivals in July?",
+              "id": "94",
+              "answers": [
+                {
+                  "text": "Odisha Festival of Chariots or Rath Yatra",
+                  "answer_start": 258
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "August Festivals in India",
+      "paragraphs": [
+        {
+          "context": "In August the monsoon should be still going strong, but this is prime time to visit Ladakh. Some travellers love tropical areas, such as Kerala or Goa, this time of year: the jungles are lush, green and glistening in the rain, and rainfall is sometimes only a few hours a day. Festivals in August are Independence Day, Krishna's Birthday, Parsi New Year, Eid al-Adha, Onam, Naag Panchami, Raksha Bandhan. Independence Day - This public holiday on 15 August celebrates India's independence from Britain in 1947. Celebrations include flag-hoisting ceremonies and parades. The biggest celebrations are in Delhi, where the Prime Minister addresses the nation from the Red Fort and there's pigeon racing and kite flying in Old Delhi. Krishna's Birthday - Janmastami celebrations can last a week in Krishna's birthplace, Mathura; elsewhere the festivities range from fasting to puja (prayers) and offering sweets, to drawing elaborate rangoli (rice-paste designs) outside the home. Janmastami is held August/September. Parsi New Year - Parsis celebrate Pateti, the Zoroastrian new year, especially in Mumbai. Houses are cleaned and decorated with flowers and rangoli, the family dresses up and eats special fish dishes and sweets, and offerings are made at the Fire Temple. Eid al-Adha - Muslims commemorate Ibrahim's readiness to sacrifice his son to God by slaughtering a goat or sheep and sharing it with family, the community and the poor. Onam - In August or September, Onam is Kerala's biggest cultural celebration, when the entire state celebrates the golden age of mythical King Mahabali for 10 days. Snake Festival or Naag Panchami- The Hindu festival Naag Panchami venerates snakes as totems against flooding and other evils. It's dedicated to Ananta, the serpent upon whose coils Vishnu rested between universes. Women return to their family homes and fast. Brothers & Sisters or Raksha Bandhan - On Raksha Bandhan (Narial Purnima), which means 'protective tie', girls tie amulets known as rakhis to the wrists of brothers and close male friends to protect them in the coming year. Brothers reciprocate with gifts and promises to take care of their sisters.",
+          "qas": [
+            {
+              "question": "What are some festivals that are celebrated in August?",
+              "id": "95",
+              "answers": [
+                {
+                  "text": "Independence Day, Krishna's Birthday, Parsi New Year, Eid al-Adha, Onam, Naag Panchami, Raksha Bandhan",
+                  "answer_start": 301
+                }
+              ]
+            },
+            {
+              "question": "What is a good place to visit during August?",
+              "id": "96",
+              "answers": [
+                {
+                  "text": "this is prime time to visit Ladakh. Some travellers love tropical areas, such as Kerala or Goa, this time of year: the jungles are lush, green and glistening in the rain, and rainfall is sometimes only a few hours a day",
+                  "answer_start": 56
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Janmastami?",
+              "id": "97",
+              "answers": [
+                {
+                  "text": "Krishna's Birthday - Janmastami celebrations can last a week in Krishna's birthplace, Mathura; elsewhere the festivities range from fasting to puja (prayers) and offering sweets, to drawing elaborate rangoli",
+                  "answer_start": 729
+                }
+              ]
+            },
+            {
+              "question": "What is the meaning of Raksha Bandhan?",
+              "id": "98",
+              "answers": [
+                {
+                  "text": "On Raksha Bandhan (Narial Purnima), which means 'protective tie', girls tie amulets known as rakhis to the wrists of brothers and close male friends to protect them in the coming year. Brothers reciprocate with gifts and promises to take care of their sisters.",
+                  "answer_start": 1902
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Naag Panchami?",
+              "id": "99",
+              "answers": [
+                {
+                  "text": "The Hindu festival Naag Panchami venerates snakes as totems against flooding and other evils. It's dedicated to Ananta, the serpent upon whose coils Vishnu rested between universes.",
+                  "answer_start": 1636
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Eid al-Adha?",
+              "id": "100",
+              "answers": [
+                {
+                  "text": "Muslims commemorate Ibrahim's readiness to sacrifice his son to God by slaughtering a goat or sheep and sharing it with family, the community and the poor.",
+                  "answer_start": 1282
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Onam?",
+              "id": "101",
+              "answers": [
+                {
+                  "text": "Onam is Kerala's biggest cultural celebration, when the entire state celebrates the golden age of mythical King Mahabali for 10 days.",
+                  "answer_start": 1469
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "September Festivals in India",
+      "paragraphs": [
+        {
+          "context": "The rain is now petering out (with temperatures still relatively high), and the monsoon is usually finished in places such as Rajasthan. The second trekking season begins mid-month in the Himalaya and runs through October. Festivals in September are Ganesh Chaturthi, Muharram. Ganesh Chaturthi - Hindus celebrate the 10-day Ganesh Chaturthi, the celebration of the birth of the much-loved elephant-headed god, with verve, particularly in Mumbai, Hyderabad and Chennai. Clay idols of Ganesh are paraded through the streets before being ceremonially immersed in rivers, tanks (reservoirs) or the sea. Muharram - Shiite Muslims commemorate the martyrdom of the Prophet Mohammed's grandson Imam Hussain, an event known as Ashura, with fasting, beautiful processions and a month of grieving and remembrance. Sunni Muslims also mark this, but with fasting and celebrations marking when Moses (Moosa) fasted because Allah saved the Israelites from their enemy in Egypt.",
+          "qas": [
+            {
+              "question": "What are the festivals in September?",
+              "id": "102",
+              "answers": [
+                {
+                  "text": "Ganesh Chaturthi, Muharram",
+                  "answer_start": 250
+                }
+              ]
+            },
+            {
+              "question": "What are the significance of Ganesh Chaturthi?",
+              "id": "103",
+              "answers": [
+                {
+                  "text": "Hindus celebrate the 10-day Ganesh Chaturthi, the celebration of the birth of the much-loved elephant-headed god, with verve, particularly in Mumbai, Hyderabad and Chennai. Clay idols of Ganesh are paraded through the streets before being ceremonially immersed in rivers, tanks (reservoirs) or the sea.",
+                  "answer_start": 297
+                }
+              ]
+            },
+            {
+              "question": "What are the significance of Muharrm?",
+              "id": "104",
+              "answers": [
+                {
+                  "text": "Shiite Muslims commemorate the martyrdom of the Prophet Mohammed's grandson Imam Hussain, an event known as Ashura, with fasting, beautiful processions and a month of grieving and remembrance. Sunni Muslims also mark this, but with fasting and celebrations marking when Moses (Moosa) fasted because Allah saved the Israelites from their enemy in Egypt.",
+                  "answer_start": 611
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "October festivals in India",
+      "paragraphs": [
+        {
+          "context": "October is when the travel season starts to kick off in earnest. October, aka shoulder season, brings festivals, mostly good weather with reasonably comfy temperatures, and lots of post-rain greenery and lushness. Festivals in October are Gandhi's Birthday, Durga Puja, Navratri, Dussehra, Pushkar Camel Fair. Gandhi's Birthday - The national holiday of Gandhi Jayanti is a solemn celebration of Mohandas Gandhi's birth, on 2 October, with prayer meetings at his cremation site in Delhi, Raj Ghat. Durga Puja - The conquest of good over evil is exemplified by the goddess Durga's victory over buffalo-headed demon Mahishasura. Celebrations occur around the time of Dussehra, particularly in Kolkata, where thousands of images of the goddess are displayed then ritually immersed in rivers and water tanks. Navratri - The exhuberant Hindu 'Festival of Nine Nights' leading up to Dussehra celebrates the goddess Durga in all her incarnations. Festivities, in September or October, are particularly vibrant in West Bengal, Maharashtra and Gujarat; in Kolkata, Durga images are ritually immersed in rivers and tanks. Dussehra - Colourful Dussehra celebrates the victory of the Hindu god Rama over the demon-king Ravana and the triumph of good over evil. Dussehra is big in Kullu, where more than 200 village deities are carried into the town on palanquins and festivities go on for a week. Pushkar Camel Fair - Held during Kartika (the eighth Lunar month, usually October or November), this fair attracts around 200,000 people, bringing some 50,000 camels, horses and cattle. It's a swirl of colour, magic and mayhem, thronged with musicians, mystics, tourists, camera crews, traders, devotees and animals.",
+          "qas": [
+            {
+              "question": "What festivals are celebrated in October in India?",
+              "id": "105",
+              "answers": [
+                {
+                  "text": "Gandhi's Birthday, Durga Puja, Navratri, Dussehra, Pushkar Camel Fair.",
+                  "answer_start": 239
+                }
+              ]
+            },
+            {
+              "question": "When is Gandhi Jayanti celebrated?",
+              "id": "106",
+              "answers": [
+                {
+                  "text": "Gandhi Jayanti is a solemn celebration of Mohandas Gandhi's birth, on 2 October",
+                  "answer_start": 354
+                }
+              ]
+            },
+            {
+              "question": "What is celebrated during Durga Puja?",
+              "id": "107",
+              "answers": [
+                {
+                  "text": "The conquest of good over evil is exemplified by the goddess Durga's victory over buffalo-headed demon Mahishasura.",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "question": "Where are the Navratri festivities particularly vibrant?",
+              "id": "108",
+              "answers": [
+                {
+                  "text": "West Bengal, Maharashtra and Gujarat",
+                  "answer_start": 1006
+                }
+              ]
+            },
+            {
+              "question": "When is Pushkar Camel Fair held?",
+              "id": "109",
+              "answers": [
+                {
+                  "text": "Held during Kartika (the eighth Lunar month, usually October or November)",
+                  "answer_start": 1406
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Navrati?",
+              "id": "110",
+              "answers": [
+                {
+                  "text": "Navratri - The exhuberant Hindu 'Festival of Nine Nights' leading up to Dussehra celebrates the goddess Durga in all her incarnations.",
+                  "answer_start": 805
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "November festivals in India",
+      "paragraphs": [
+        {
+          "context": "The climate in november is blissful in most places, still hot but not uncomfortably so, but the southern monsoon is sweeping Tamil Nadu and Kerala. Festivals in November are Diwali, Guru Nanak's Birthday. Diwali - In the lunar month of Kartika, Hindus celebrate Diwali for five days. There's massive build up to this, and on the day people exchange gifts, light fireworks, and light lamps to lead Lord Rama home from exile. One of India’s prettiest and noisiest festivals. Guru Nanak's Birthday - Nanak Jayanti, birthday of Guru Nanak, founder of Sikhism, is celebrated with prayer, kirtan (devotional singing) and procssions for three days, especially in Punjab and Haryana. The festival may also be held on 14 April, possibly Nanak's actual 1469 birth date.",
+          "qas": [
+            {
+              "question": "What festivals are celebrated in November?",
+              "id": "111",
+              "answers": [
+                {
+                  "text": "Diwali, Guru Nanak's Birthday.",
+                  "answer_start": 174
+                }
+              ]
+            },
+            {
+              "question": "How indian's celebrate diwali?",
+              "id": "112",
+              "answers": [
+                {
+                  "text": "Hindus celebrate Diwali for five days. There's massive build up to this, and on the day people exchange gifts, light fireworks, and light lamps to lead Lord Rama home from exile.",
+                  "answer_start": 245
+                }
+              ]
+            },
+            {
+              "question": "How Guru Nanak's birthday is celebrated?",
+              "id": "113",
+              "answers": [
+                {
+                  "text": "Nanak Jayanti, birthday of Guru Nanak, founder of Sikhism, is celebrated with prayer, kirtan (devotional singing) and procssions for three days, especially in Punjab and Haryana.",
+                  "answer_start": 497
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "December festivals in India",
+      "paragraphs": [
+        {
+          "context": "December is peak tourist season for a reason: it's an escape from the cold elsewhere, you're guaranteed glorious weather (except for the chilly mountains), the humidity’s low, the mood is festive and the beach rocks. Festivals in december are  The Prophet Mohammed's Birthday, Camel Treks in Rajasthan, Christmas. The Prophet Mohammed's Birthday - The Islamic festival of Eid-Milad-un-Nabi celebrates the birth of the Prophet Mohammed with prayers and processions, especially in Jammu and Kashmir. Birding - Many of India's 1250-plus bird species perform their winter migration from November to January or February, and excellent birdwatching spots are peppered across the country; www.birding.in is an excellent resource. Camel Treks in Rajasthan - The cool winter (November to February) is the time to mount a camel and ride through the Rajasthani desert. Setting out from Jaialmer or Bikaner, you can explore the Thar Desert and sleep under a shedload of stars. Christmas - Christian Goa comes alive in the lead-up to Christmas, midnight Masses are held on 24 December, and Christmas Day is celebrated with feasting and fireworks.",
+          "qas": [
+            {
+              "question": "What is the reason for December being the peak tourist season in India?",
+              "id": "114",
+              "answers": [
+                {
+                  "text": "it's an escape from the cold elsewhere, you're guaranteed glorious weather (except for the chilly mountains), the humidity’s low, the mood is festive and the beach rocks.",
+                  "answer_start": 46
+                }
+              ]
+            },
+            {
+              "question": "What festivals are celebrated in December in India?",
+              "id": "115",
+              "answers": [
+                {
+                  "text": "The Prophet Mohammed's Birthday, Camel Treks in Rajasthan, Christmas.",
+                  "answer_start": 244
+                }
+              ]
+            },
+            {
+              "question": "What is Eid-Milad-un-Nabi and where is it celebrated?",
+              "id": "116",
+              "answers": [
+                {
+                  "text": "The Islamic festival of Eid-Milad-un-Nabi celebrates the birth of the Prophet Mohammed with prayers and processions, especially in Jammu and Kashmir.",
+                  "answer_start": 348
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of winter in Rajasthan for Camel Treks?",
+              "id": "117",
+              "answers": [
+                {
+                  "text": "The cool winter (November to February) is the time to mount a camel and ride through the Rajasthani desert.",
+                  "answer_start": 750
+                }
+              ]
+            },
+            {
+              "question": "What happens in Christian Goa during Christmas?",
+              "id": "118",
+              "answers": [
+                {
+                  "text": "Christian Goa comes alive in the lead-up to Christmas, midnight Masses are held on 24 December, and Christmas Day is celebrated with feasting and fireworks.",
+                  "answer_start": 977
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trekking Times in India",
+      "paragraphs": [
+        {
+          "context": "With India's diverse topography, the best trekking times depend on the region. May-June This is a good time for mountain trekking, but also high season for domestic Indian travellers. Trails to holy Hindu sites can be packed. Mid-July–mid-September During monsoon, trekking in the wrong place can be deadly. Ladakh and Spiti stay pretty dry. Uttarakhand's famous Valley of Flowers National Park unfurls a dazzling botanical carpet. Mid-September-mid-November Post-monsoon, searing blue skies usually bless the Himalaya. While nights may dip below freezing, days are usually sunny and warm. Facilities often close for winter, so check in advance to see what will be open. December-March February is the only month where you can attempt the hazardous Chadar Trek, walking along a frozen river to the Zanskar region. April Head for the hill stations, as it's ripping hot down low and usually still snow-packed up high.",
+          "qas": [
+            {
+              "question": "What are the best months for mountain trekking in India?",
+              "id": "119",
+              "answers": [
+                {
+                  "text": "May-June This is a good time for mountain trekking, but also high season for domestic Indian travellers",
+                  "answer_start": 79
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "title":"Places to Visit in Delhi",
+        "paragraphs": [
+            {
+                "context":"Places to visit in delhi are Red Fort, Humayun's Tomb, Jama Masjid, Qutb Minar, Hazrat Nizam-ud-din Dargah. Red Fort Exploring this Mughal masterpiece, imagining its former traumas and splendours. Humayun's Tomb Enjoying the architectural virtuosity and mirror-image gardens of Delhi's most spectacular resting place. Jama Masjid Experiencing the serenity of the 'Friday Mosque', with its wide open courtyard. Qutb Minar Complex Visiting Delhi's first Islamic city at sunrise. Hazrat Nizam-ud-din Dargah Drinking in the mystical, magical atmosphere and hearing qawwali (Islamic devotional singing) at this hallowed Sufi shrine. Cycling Taking a rollicking, eye-opening bike ride through Old Delhi at dawn. Street food Sampling some of Old Delhi's flavour-packed street food, such as Gali Paratha Wali's stuffed breads with attitude. Lodi Gardens Roaming around Delhi's favourite tree-shaded, tomb-dotted park. Shahpur Jat Browsing contemporary Indian fashion designs at this independently minded village.",
+                "qas":[
+                    {
+                        "question":"What are some places to visit in Delhi?",
+                        "id":"120",
+                        "answers":[
+                            {
+                                "text":"Red Fort, Humayun's Tomb, Jama Masjid, Qutb Minar, Hazrat Nizam-ud-din Dargah",
+                                "answer_start":29
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Which architectural marvel in Delhi showcases mirror-image gardens?",
+                        "id": "121",
+                        "answers":[
+                            {
+                                "text": "Humayun's Tomb",
+                                "answer_start":197
+                            }
+                        ]
+                    },
+                    {
+                        "question":"Which famous mosque in Delhi has a wide open courtyard?",
+                        "id":"122",
+                        "answers":[
+                            {
+                                "text":"Jama Masjid",
+                                "answer_start":318
+                            }
+                        ]
+                    },
+                    {
+                        "question":"What can be experienced at Hazrat Nizam-ud-din Dargah in Delhi?",
+                        "id":"123",
+                        "answers":[
+                            {
+                                "text":"mystical, magical atmosphere and hearing qawwali (Islamic devotional singing) at this hallowed Sufi shrine",
+                                "answer_start":520
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title":"History of Delhi",
+        "paragraphs": [
+            {
+                "context":"Delhi is said by Hindus to be the site of ancient Indraprastha, home of the Pandavas in the Mahabharata. Excavations near the Purana Qila have revealed evidence of human habitation dating back 3000 years. The name Delhi is linked to the Maurya king Dhilu, who ruled the region in the 1st century BC, but for most of its existence, the city has been known by the multiple different names given to it by its conquerors. The first city for which clear archaeological evidence remains was Lal Kot, or Qila Rai Pithora, founded by the Hindu king Prithviraj Chauhan in the 12th century. The city fell to Afghan invaders in 1191, and for the next 600 years, Delhi was ruled by a succession of Muslim sultans and emperors. The first, Qutub-ud-din Aibak, razed the Hindu city and used its stones to construct Mehrauli and the towering Qutb Minar. Qutub-ud-din Aibak's 'Mamluk' (Slave) dynasty was quickly replaced by the Khilji dynasty, following a coup. The Khiljis constructed a new capital at Siri, northeast of Mehrauli, supplied with water from the royal tank at Hauz Khas. Following another coup, the Tughlaq sultans seized the reins, creating a new fortified capital at Tughlaqabad, and two more cities – Jahanpurah and Firozabad – for good measure. The Tughlaq dynasty fell after Tamerlane stormed through town in 1398, opening the door for the Sayyid and Lodi dynasties, the last of the Delhi sultanates, whose tombs are scattered around the Lodi Gardens. The scene was set for the arrival of the Mughals. Babur, the first Mughal emperor, seized Delhi in 1526, and a new capital rose at Shergarh (the present-day Purana Qila), presided over by his son, Humayun. Frantic city building continued throughout the Mughal period. Shah Jahan gained the Peacock Throne in 1627 and raised a new city, Shahjahanabad, centred on the Red Fort. The Mughal city fell in 1739, to the Persian Nadir Shah, and the dynasty went into steep decline. The last Mughal emperor, Badahur Shah Zafar, was exiled to Burma (Myanmar) by the British for his role in the 1857 First War of Independence; there were some new rulers in town. When the British shifted their capital to Delhi from increasingly rebellious Calcutta in 1911, it was time for another bout of construction. The architect Edwin Lutyens drew up plans for a new city of wide boulevards and stately administrative buildings to accommodate the colonial government - New Delhi was born. In 1947 Partition - the division of India and Pakistan - saw Delhi ripped apart as many inhabitants fled to the north and migrants flooded inwards, a trauma from which some say the city has never recovered. The modern metropolis certainly faces other challenges too - traffic, population, crime and the deepening chasm between rich and poor. However, the city on the Yamuna River continues to flourish, with its new satellite cities spreading Delhi further and further outwards.",
+                "qas":[
+                    {
+                        "question":"What is the origin of the name 'Delhi'?",
+                        "id":"124",
+                        "answers":[
+                            {
+                                "text":"The name Delhi is linked to the Maurya king Dhilu, who ruled the region in the 1st century BC",
+                                "answer_start":205
+                            }
+                        ]
+                    },
+                    {
+                        "question":"Who founded the first city in Delhi with clear archaeological evidence?",
+                        "id":"125",
+                        "answers":[
+                            {
+                                "text":"The first city for which clear archaeological evidence remains was Lal Kot, or Qila Rai Pithora, founded by the Hindu king Prithviraj Chauhan in the 12th century.",
+                                "answer_start":418
+                            }
+                        ]
+                    },
+                    {
+                        "question":"Which ruler used the stones from the Hindu city to build Mehrauli and the Qutb Minar?",
+                        "id":"126",
+                        "answers":[
+                            {
+                                "text":"Qutub-ud-din Aibak, razed the Hindu city and used its stones to construct Mehrauli and the towering Qutb Minar.",
+                                "answer_start":726
+                            }
+                        ]
+                    },
+                    {
+                        "question":"Where did the Khiljis establish a new capital in Delhi?",
+                        "id":"127",
+                        "answers":[
+                            {
+                                "text":"The Khiljis constructed a new capital at Siri, northeast of Mehrauli",
+                                "answer_start":946
+                            }
+                        ]
+                    },
+                    {
+                        "question":"Who was the first Mughal emperor to capture Delhi?",
+                        "id":"128",
+                        "answers":[
+                            {
+                                "text":"Babur, the first Mughal emperor, seized Delhi in 1526",
+                                "answer_start":1506
+                            }
+                        ]
+                    },
+                    {
+                        "question":"When did the British shift their capital to Delhi?",
+                        "id":"129",
+                        "answers":[
+                            {
+                                "text":"the British shifted their capital to Delhi from increasingly rebellious Calcutta in 1911",
+                                "answer_start":2113
+                            }
+                        ]
+                    },
+                    {
+                        "question":"What is the significance of Delhi in Hindu mythology?",
+                        "id":"130",
+                        "answers":[
+                            {
+                                "text":"Delhi is said by Hindus to be the site of ancient Indraprastha, home of the Pandavas in the Mahabharata.",
+                                "answer_start":0
+                            }
+                        ]
+                    },
+                    {
+                        "question":"How far back does evidence of human habitation in Delhi date?",
+                        "id":"131",
+                        "answers":[
+                            {
+                                "text":"Excavations near the Purana Qila have revealed evidence of human habitation dating back 3000 years.",
+                                "answer_start":105
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Old Delhi",
+        "paragraphs": [
+            {
+                "context":"Top sights of old Delhi are  Bird Hospital, Chandni Chowk,Chatta Chowk, Digambara Jain Temple, Diwan-i-Am, Diwan-i-Khas, Fatehpuri Masjid, Feroz Shah Kotla, Gandhi Darshan, Gandhi Memorial, Hawa Mahal, Indian War Memorial Museum, Jhandewalan Hanuman Temple, Khas Mahal, Lahore Gate, Lakshmi Narayan Temple, Moti Masjid, Mumtaz Mahal, Museum of Archaeology, Museum on India's Struggle for Freedom, National Bal Bhavan, National Gandhi Museum, Naubat Khana, Nicholson Cemetery, Raj Ghat, Rang Mahal, Royal Baths, Salimgarh, Shahi Burj, Shankar's International Dolls Museum, Sisganj Gurdwara, Spice Market, Sunehri Masjid, Jama Masjid, Jantar Mantar. 'Old Delhi' is roughly equivalent to the the Mughal city of Shahjahanabad.",
+                "qas":[
+                    {
+                        "question":"What are the top sights of Old Delhi?",
+                        "id":"132",
+                        "answers":[
+                            {
+                                "text":"Bird Hospital, Chandni Chowk,Chatta Chowk, Digambara Jain Temple, Diwan-i-Am, Diwan-i-Khas, Fatehpuri Masjid, Feroz Shah Kotla, Gandhi Darshan, Gandhi Memorial, Hawa Mahal, Indian War Memorial Museum, Jhandewalan Hanuman Temple, Khas Mahal, Lahore Gate, Lakshmi Narayan Temple, Moti Masjid, Mumtaz Mahal, Museum of Archaeology, Museum on India's Struggle for Freedom, National Bal Bhavan, National Gandhi Museum, Naubat Khana, Nicholson Cemetery, Raj Ghat, Rang Mahal, Royal Baths, Salimgarh, Shahi Burj, Shankar's International Dolls Museum, Sisganj Gurdwara, Spice Market, Sunehri Masjid, Jama Masjid, Jantar Mantar.",
+                                "answer_start":29
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Rajasthan",
+        "paragraphs": [
+            {
+                "context":"It is said there is more history in Rajasthan than in the rest of India put together. Welcome to the Land of the Kings - a realm of maharajas, majestic forts and lavish palaces. India is littered with splendid architecture, but nowhere will you find fortresses quite as magnificent as those in Rajasthan, rising up imperiously from the landscape like fairy-tale mirages or adventure movie sets. As enchanting as they are, though, there is more to this most royal of regions than its architectural wonders. This is also a land of sand dunes and jungle, of camel trains and wild tigers, of glittering jewels, vivid colours and vibrant culture. There are enough colourful festivals here to fill a calendar, while the shopping and cuisine are nothing short of spectacular. In truth, Rajasthan just about has it all – it is the must-see state of India, brimming with startling, thought-provoking and, ultimately, unforgettable attractions. In Dec–Feb there is pleasant day time temperatures, but can get cold at night. In Sep–Nov, Feb & Mar there is warm nightssuit many visitors fleeing colderclimes. In Apr–Aug, April and June are hot awaiting the monsoon, which brings the rain in July and August.",
+                "qas":[
+                    {
+                        "question":"What is Rajasthan known for?",
+                        "id":"133",
+                        "answers":[
+                            {
+                                "text":"the Land of the Kings - a realm of maharajas, majestic forts and lavish palaces. India is littered with splendid architecture, but nowhere will you find fortresses quite as magnificent as those in Rajasthan, rising up imperiously from the landscape like fairy-tale mirages or adventure movie sets. As enchanting as they are, though, there is more to this most royal of regions than its architectural wonders. This is also a land of sand dunes and jungle, of camel trains and wild tigers, of glittering jewels, vivid colours and vibrant culture. There are enough colourful festivals here to fill a calendar, while the shopping and cuisine are nothing short of spectacular. In truth, Rajasthan just about has it all – it is the must-see state of India",
+                                "answer_start":97
+                            }
+                        ]
+                    },
+                    {
+                        "question":"What makes the fortresses in Rajasthan unique?",
+                        "id":"134",
+                        "answers":[
+                            {
+                                "text":"you find fortresses quite as magnificent as those in Rajasthan, rising up imperiously from the landscape like fairy-tale mirages or adventure movie sets.",
+                                "answer_start":241
+                            }
+                        ]
+                    },
+                    {
+                        "question": "What are some other attractions in Rajasthan besides the architectural wonders?",
+                        "id":"135",
+                        "answers":[
+                            {
+                                "text":"This is also a land of sand dunes and jungle, of camel trains and wild tigers, of glittering jewels, vivid colours and vibrant culture",
+                                "answer_start":506
+                            }
+                        ]
+                    },
+                    {
+                        "question":"his is also a land of sand dunes and jungle, of camel trains and wild tigers, of glittering jewels, vivid colours and vibrant culture. There are enough colourful festivals here to fill a calendar, while the shopping and cuisine are nothing short of spectacular. In truth, Rajasthan just about has it all – it is the must-see state of India, brimming with startling, thought-provoking and, ultimately, unforgettable attractions. In Dec–Feb there is pleasant day time temperatures, but can get cold at night. In Sep–Nov, Feb & Mar there is warm nightssuit many visitors fleeing colderclimes. In Apr–Aug, April and June are hot awaiting the monsoon, which brings the rain in July and August.",
+                        "id":"136",
+                        "answers":[
+                            {
+                                "text":"In Sep–Nov, Feb & Mar there is warm nightssuit many visitors fleeing colderclimes",
+                                "answer_start":1014
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Places in rajasthan",
+        "paragraphs": [
+            {
+                "context":"Places to visit in Rajasthan are Jaisalmer, Jaipur, Jodhupr, Bundi, Bikaner, Ajmer, Pushkar, Udaipur, Mount Abu, Sawai Madhopur, Bharatpur, Alwar, Pali, Chittorgrah, Hanumangarh, Jhunjhunu, Jhalawar, Churu, Kota. In the heart of Thar Desert, Jaisalmer is known as the Golden City for its beautiful sun-soaked sand dunes, exuberant forts, and rich culture and traditions. Places to visit in Jaisalmer are Jaisalmer Fort, Sam sand dunes, Gadisagar Lake, Tanot Mata Temple. Things to do in Jaisalmer are to attend the Desert festival of Jaisalmer in January – February, take a camel safari to the Sam sand dunes, visit Longewala border. Jaipur is known as the pink city and the capital of rajasthan. Major attractions in Jaipur are City Palace, Amber Fort and Palace, Jantar Mantar Observatory, Birla Mandir. Things to do in Jaipur are to go for a wildlife safari, shop for Rajasthani crafts, textiles, and gems. Jodhpur is just an extension of the royalty that you get to see at Jaisalmer and Jaipur. Places To Visit In Jodhpur are Mehrangarh Fort, the Umaid Bhawan Palace, the Mandore Gardens, the Jaswant Thada, the Kalyana Lake, and Garden, the Ghanta Ghar, Sardar Samand Lake and Masuria Hills. Things to do in Jodhpur are to visit the palaces; Mehrangarh fort can’t be missed Famous for: Palaces, forts. At 210 km from Jaipur, Bundi was once the native place of a tribe called Bunda Meena and hence inherited the name. Major attractions in Bundi are Nawal Sagar, Sukh Mahal, Dabhai Kund, Taragarh Fort, Bundi Palace, and several other steep well reservoirs. Bikaner was founded by Rao Bhika and the Nehra jats. Major attractions in Bikaner are Junagarh Fort, Lalgarh Palace, Karni Mata Temple, Laxmi Niwas Palace, Laxmi Nath Temple, Bikaner Camel Festival Things to do in Bikaner are to attend the Bikaner Camel fest, buy some Usta and Chadwa artifacts and handicrafts.",
+                "qas":[
+                    {
+                        "question":"What are the places to visit in rajasthan?",
+                        "id":"137",
+                        "answers":[
+                            {
+                                "text":"Jaisalmer, Jaipur, Jodhupr, Bundi, Bikaner, Ajmer, Pushkar, Udaipur, Mount Abu, Sawai Madhopur, Bharatpur, Alwar, Pali, Chittorgrah, Hanumangarh, Jhunjhunu, Jhalawar, Churu, Kota.",
+                                "answer_start":33
+                            }
+                        ]
+                    },
+                    {
+                        "question":"Which city is known as golden city?",
+                        "id":"138",
+                        "answers":[
+                            {
+                                "text":"Jaisalmer is known as the Golden City",
+                                "answer_start":242
+                            }
+                        ]
+                    },
+                    {
+                        "question":"What are the places to visit in Jaisalmer?",
+                        "id":"139",
+                        "answers":[
+                            {
+                                "text":"Jaisalmer Fort, Sam sand dunes, Gadisagar Lake, Tanot Mata Temple",
+                                "answer_start":404
+                            }
+                        ]
+                    },
+                    {
+                        "question":"What are the things visitors can do in Jaisalmer?",
+                        "id":"140",
+                        "answers":[
+                            {
+                                "text":"attend the Desert festival of Jaisalmer in January – February, take a camel safari to the Sam sand dunes, visit Longewala border.",
+                                "answer_start":504
+                            }
+                        ]
+                    },
+                    {
+                        "question":"Which city is known as pink city?",
+                        "id":"141",
+                        "answers":[
+                            {
+                                "text":"Jaipur is known as the pink city",
+                                "answer_start":634
+                            }
+                        ]
+                    },
+                    {
+                        "question":"What are the places to visit in Jaipur?",
+                        "id":"142",
+                        "answers":[
+                            {
+                                "text":"City Palace, Amber Fort and Palace, Jantar Mantar Observatory, Birla Mandir",
+                                "answer_start":729
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+  ]
+}
